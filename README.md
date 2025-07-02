@@ -7,7 +7,7 @@
 ## 🚀 About Me
 
 I'm a passionate and dedicated software developer who enjoys building web applications and solving real-world problems with code. I have a strong interest in backend development and system architecture, and I'm always eager to learn and explore new technologies.  
-My goal is to become a **software engineer**, and I’d like to work with **Cloud Computing** in the early future.
+My goal is to become a **software engineer**, and I’d like to work with cloud computing and software operation as an expert in the early future.
 
 ---
 
